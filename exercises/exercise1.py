@@ -9,3 +9,9 @@ bok_b = 5
 pole_pr = bok_a * bok_b
 
 print("Pole prostokąta wynosi: " + str(pole_pr))
+
+wysokosc = 3
+
+pole_tr = bok_a * wysokosc / 2
+
+print("Pole trojkata wynosi: " + str(pole_tr))
